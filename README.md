@@ -1,1 +1,1 @@
-# login_with_aws_cognito
+Simple flutter login app, using Amazon Cognito. 
